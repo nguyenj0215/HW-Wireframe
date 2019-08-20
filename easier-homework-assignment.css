@@ -1,0 +1,54 @@
+#greyBackground {
+    background-color: grey;
+    font-weight: bold;
+}
+.centeredRec {
+    margin: auto;
+    width: 70%;
+    padding: 25px;
+    background-color: white;
+    text-align: center;
+    color: grey;
+}
+.midLeft {
+    display: inline-block;
+    height: 300px;
+    width: 37%;
+    text-align: center;
+    margin-left: 13.25%;
+    padding: 25px;
+    background-color: white;
+    color: grey;
+}
+#midRight {
+    display: inline-block;
+    height: 300px;
+    vertical-align: top;
+    width: 28.2%;
+    margin-left: 15px;
+    padding: 25px;
+    text-align: center;
+    background-color: white;
+    color: grey;
+}
+#articleBox {
+    background-color: grey;
+    text-align: center;
+    padding: 25px;
+    margin-top: 50px;
+    height: 190px;
+    color: white;
+    
+}
+h3 {
+    background-color: white;
+    color: grey;
+    text-align: center;
+    padding: 25px;
+}
+p {
+    background-color: white;
+    color: grey;
+    text-align: center;
+    padding: 25px;
+}

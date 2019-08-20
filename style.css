@@ -1,54 +1,57 @@
 #greyBackground {
-    background-color: grey;
+    display: block;
+    background-color: #777;
     font-weight: bold;
+    font-size: 18px;
+    color: #777;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .centeredRec {
     margin: auto;
-    width: 70%;
+    width: 960px;
     padding: 25px;
-    background-color: white;
+    background-color: #ebebeb;
     text-align: center;
-    color: grey;
+    color: #777;
 }
 .midLeft {
     display: inline-block;
-    height: 300px;
-    width: 37%;
+    height: 310px;
+    width: 495px;
     text-align: center;
-    margin-left: 13.25%;
+    margin-left: 14.6%;
     padding: 25px;
-    background-color: white;
-    color: grey;
+    background-color: #ebebeb;
+    color: #777;
 }
 #midRight {
     display: inline-block;
-    height: 300px;
+    height: 310px;
     vertical-align: top;
-    width: 28.2%;
+    width: 27.7%;
     margin-left: 15px;
     padding: 25px;
     text-align: center;
-    background-color: white;
-    color: grey;
+    background-color: #ebebeb;
+    color: #777;
 }
 #articleBox {
-    background-color: grey;
+    background-color: #777;
     text-align: center;
-    padding: 25px;
-    margin-top: 50px;
-    height: 190px;
-    color: white;
-    
+    padding: 20px;
+    margin-top: 25px;
+    height: 210px;
+    color: #ebebeb;   
 }
 h3 {
-    background-color: white;
-    color: grey;
+    background-color: #ebebeb;
+    color: #777;
     text-align: center;
-    padding: 25px;
+    padding: 20px;
 }
 p {
-    background-color: white;
-    color: grey;
+    background-color: #ebebeb;
+    color: #777;
     text-align: center;
-    padding: 25px;
+    padding: 20px;
 }
